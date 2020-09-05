@@ -1,23 +1,23 @@
 # AI Project: Chatbot for tax certificate queries
 
-## Background:
+## Background
 A financial services provider has customers who make investments in various products (linked and unlinked). Customers earn income that includes interest, dividends, payouts, and annuities.
 Certificates are issued to verify these payments for tax purposes – these are sent to customers and to the revenue authorities.
 
-## Problem statement:
+## Problem statement
 During tax filing season, up to 2000 queries are received per day regarding :
 outstanding certificates, incorrectly issued certificates, errors, and duplicates (90%);
 technical queries about taxation and disclosure (10%).
 These queries currently require a large number of call centre employees to divert them to the correct departments where relevant information can be retrieved.
 
-## Solution:
+## Solution
 Introduce chatbots to deal with 90% of queries, thereby reducing time, effort and number of resources allocated to manning the call centre.
 
-## Rationale for solution:
+## Rationale for solution
 A chatbot is an intelligent piece of software that can communicate and perform actions similar to humans.
 For this problem, chatbots can automate most of the customer interaction by answering some of the frequent questions that are asked by customers. They are also able to connect to other online systems and databases, thereby retrieving information quickly and efficiently to provide immediate answers to many queries.
 
-## Project details:
+## Project details
 
 Training the chatbot:
 - The chatbot is trained on the dataset which contains categories, patterns and responses.
